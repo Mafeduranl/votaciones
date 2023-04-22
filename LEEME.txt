@@ -1,0 +1,12 @@
+Para la instalación del proyecto primero se deberá cambiar las credenciales de la BD ubicado
+en el archivo configuracion.php: línea 2,3,4 y 5 colocándose las credenciales respectivas que se utilizaran para ejecutar el proyecto.
+
+Se utilizaron las siguientes herramientas
+
+PHP version 7.3.29
+MYSQL versión 5.7.34
+
+Se debe colocar la carpeta del proyecto en el servidor local o remoto
+
+Ejecutado por: María duran
+Email: licenciadaduran@gmail.com
